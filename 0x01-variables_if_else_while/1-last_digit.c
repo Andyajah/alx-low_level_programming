@@ -4,9 +4,9 @@
 
 /**
  * main - Entry point
- * Description: print the last digit of the number stored in the variable n 
+ * Description: print the last digit of the number stored in the variable n
  * in c programming language
- * * Return: (0) (Success)
+ * Return: (0) (Success)
 */
 
 int main(void)
