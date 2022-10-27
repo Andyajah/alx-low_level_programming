@@ -7,7 +7,7 @@
 */
 char *leet(char *x)
 {
-	int a = 0, b = 0, l = 5;
+	int a = 0, bi, l = 5;
 	char tr[5] = {'A', 'E', 'O', 'T', 'L'};
 	char trw[5] = {'4', '3', '0', '7', '1'};
 
@@ -17,7 +17,7 @@ char *leet(char *x)
 
 		while (b < l)
 		{
-			if (x[a] == tr[b] || x[a] - 32 == tr[b]
+			if (x[a] == tr[b] || x[a] - 32 == tr[b])
 				x[a] = trw[b];
 			b++;
 		}
