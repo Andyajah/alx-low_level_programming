@@ -1,10 +1,9 @@
-#include <stdio.h>
 #include "main.h"
+
 /**
  * main - magic in progress
- * Return: always (0) (Success)
+ * Return: Always (0) (Success)
 */
-
 int main(void)
 {
 	int n;
