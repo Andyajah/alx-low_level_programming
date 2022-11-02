@@ -30,4 +30,3 @@ int check_prime(int n, int i)
 
 	return (check_prime(n, i + 1));
 }
-
