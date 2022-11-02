@@ -1,10 +1,5 @@
 #include "main.h"
 
-/*
- * File: 6-is_prime_number.c 
- * Auth: andy
-*/
-
 int is_divisible(int num, int div);
 int is_prime_number(int n);
 
